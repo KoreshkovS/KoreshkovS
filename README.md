@@ -1,5 +1,5 @@
 ### Hello!👋
-My name is Serhii! I'm future Front-End Developer. Now I'm HTML/CSS coder. But I'm good coder. I know BEM and SASS, I know how make inline svg, how make your website more fast by less weight of images! Good team worker and solo worker too!
+
 
  
 
